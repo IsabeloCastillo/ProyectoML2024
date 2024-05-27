@@ -2,13 +2,11 @@
 
 **Descripción del Proyecto**
 
-Este proyecto tiene como objetivo analizar las estadísticas de jugadores de fútbol mediante técnicas de machine learning para detectar anomalías, predecir rendimientos futuros, y realizar análisis exploratorios de los datos.
+Proyecto fin de curso Machine Learning 2024, de la escuela Tokio School, tiene como objetivo analizar las estadísticas de jugadores de fútbol mediante técnicas de machine learning para detectar anomalías, predecir rendimientos futuros, y realizar análisis exploratorios de los datos.
+
 
 ![Descripción de la imagen](imagen_portada.png)
 
-## Descripción del Proyecto
-
-Este proyecto tiene como objetivo analizar las estadísticas de jugadores de fútbol mediante técnicas de machine learning para detectar anomalías, predecir rendimientos futuros, y realizar análisis exploratorios de los datos.
 
 ### Pasos Realizados:
 
